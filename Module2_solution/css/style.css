@@ -14,7 +14,7 @@ p.childContainer1 {
 	position:absolute;
 	top:0;
 	right:0;
-	margin:4.16%;
+	margin:10px;
 	font-weight : bold;
 	border: 1px solid black;
 }
@@ -35,14 +35,15 @@ p.sushi {
 }
 
 div.childContainer2 {
-	margin:4.16%;
+	margin: 10px;
 	background-color:gray;
 	border: 1px solid;
 	height : 200px;
 }
 
 p.innerChild {
-	margin:8.33%; 
+	margin-top:20px;
+	margin-left:10px;
 	border:none;
 }
 
